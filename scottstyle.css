@@ -1,4 +1,6 @@
-
+*{
+  font-family: 'PT Sans', 'sans serif';
+}
 body {
   background-color:Linen;
 }
@@ -6,7 +8,6 @@ body {
 .intro {
   font-size: 50px;
   text-align: center;
-  font-family: Arial;
 }
 
 .me {
@@ -20,4 +21,8 @@ body {
 
 .image {
   text-align: center;
+}
+
+html{
+  scroll-behavior: smooth;
 }
