@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+  <div id="header">
   <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="scottstyle.css">
     <title>
       Scott Morris
     </title>
+    Scott Morris
   </head>
-  <body>
+  </div>
 
+  <body style="color:red;">
+    Welcome to my website!
   </body>
 </html>
