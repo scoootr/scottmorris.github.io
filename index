@@ -11,7 +11,19 @@
   </head>
   </div>
 
-  <body style="color:red;">
-    Welcome to my website!
+  <body>
+    <main>
+      <div>
+        Hey There, I'm Scott!
+      </div>
+      <div>
+        I'm a a student, coder, and gamer!
+      </div>
+    </main>
+
+    <div>
+
+    </div>
+
   </body>
 </html>
