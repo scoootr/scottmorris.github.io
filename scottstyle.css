@@ -27,6 +27,14 @@ body {
   text-align: center;
 }
 
+.language:hover{
+  transition: transform .2s;
+  transform: scale(1.5);
+  padding: 15px;
+  position: sticky;
+  
+}
+
 .image {
   text-align: center;
 }
